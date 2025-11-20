@@ -25,11 +25,9 @@ Paper: [Agentic Design of Compositional Machines](https://openreview.net/pdf?id=
 </p>
 
 <p align="center">
-  <video width="800" controls>
-    <source src="https://github.com/Anonymous4Researchhh/ICLR2026SubmissionNumber3510/raw/main/assets/Compositional_Machine_Task_Explain.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/Anonymous4Researchhh/ICLR2026SubmissionNumber3510/blob/main/assets/Compositional_Machine_Task_Explain.gif?raw=true" alt="Demo animation" width="800">
 </p>
+
 
 ---
 ## 📋 Table of Contents
