@@ -20,10 +20,14 @@ Paper: [Agentic Design of Compositional Machines](https://openreview.net/pdf?id=
 
 
 
+<p align="center"><em>RL-trained catapult (sample rollout)</em></p>
 <p align="center">
   <img src="https://github.com/Anonymous4Researchhh/ICLR2026SubmissionNumber3510/blob/main/assets/throwing.gif?raw=true" alt="Demo animation" width="800">
 </p>
 
+<hr style="max-width: 100%;">
+
+<p align="center"><em>Human-crafted catapult for comparison</em></p>
 <p align="center">
   <img src="https://github.com/Anonymous4Researchhh/ICLR2026SubmissionNumber3510/blob/main/assets/Compositional_Machine_Task_Explain.gif?raw=true" alt="Demo animation" width="800">
 </p>
